@@ -5,15 +5,12 @@
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat](https://imgs.search.brave.com/fGuzESh3m9Dd1_r8ev6t65CMp163ZTVXG372HMfgRlU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI2L2Iz/LzA4LzI2YjMwODBj/NjBjMDc5MDJkMGFk/ZjZjYWYyZDY3MWI0/LmpwZw)" alt="avnedeepak" /> 
 
-
 </p>
-
-
-- 🔭 Currently Learning Cybersecurity Fundamentals.
--🧩 Passionate about algorithms & problem solving in Python.
--🛠️ Exploring Cybersecurity And AI Integration.
--📫 Reach me via email:avnedeepak@gmail.com
-- 📫 Reach me via LinkedIn: **[Avne Deepak](https://www.linkedin.com/in/avnedeepak_tech)**
+ - 🔭 Currently Learning Cybersecurity Fundamentals.
+ -🧩 Passionate about algorithms & problem solving in Python.
+ -🛠️ Exploring Cybersecurity And AI Integration.
+ -📫 Reach me via email:avnedeepak@gmail.com
+ - 📫 Reach me via LinkedIn: **[Avne Deepak](https://www.linkedin.com/in/avnedeepak_tech)**
 
 
 <br>
