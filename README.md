@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/aC79WkJ5i37jDo8Q5w7dWmUAz5SPRjBlrM7ms8vFmXc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjRGd5TnpWdmIy/WjROekV4YURnM1l6/bGxZV2xwTkRGeWNt/ZHRORGRuTkRWeWRH/Rm9jMjF1YXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vc1JGRWE4bGJl/Qzd6YmNJWlpSLzIw/MC5naWY.gif)
+
 <h1 align="center">Hello There 👋, I'm Avne Deepak</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE "30</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif">
