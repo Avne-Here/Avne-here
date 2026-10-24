@@ -3,7 +3,7 @@
 <h3 align="center">Software Development Engineer | B.Tech CSE '30</h3>
 
 <img align="right" alt="Coding animation" width="300"
-  src="(https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views)" />
+  src="([https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat](https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif)" alt="Profile views)" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat](https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif" alt="Profile views" />
