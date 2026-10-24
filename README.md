@@ -6,7 +6,7 @@
   src="https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif" alt="Coding animation" />
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/16/21/3f/16213fe0d23aa40c1208ba1594acef50.gif" alt="GitHub" />
+  <img src="https://i.pinimg.com/originals/16/21/3f/16213fe0d23aa40c1208ba1594acef50.gif" alt="GitHub" width="50" />
 </p>
 
 - 🔭 Currently learning cybersecurity fundamentals.
