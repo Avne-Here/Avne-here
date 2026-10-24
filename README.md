@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There 👋, I'm Avne Deepak</h1>
+<h1 align="center">Hello There 👋🏻, I'm Avne Deepak</h1>
 <h3 align="center">Software Development Engineer | B.Tech CSE '30</h3>
 
 <img align="right" alt="Coding animation" width="300"
