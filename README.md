@@ -3,7 +3,8 @@
 <h3 align="center">Software Development Engineer | B.Tech CSE '30</h3>
 
 <img align="right" alt="Coding animation" width="300"
-  src="YOUR_GIF_URL_HERE" />
+  src="(https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views)" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=avnedeepak&label=Profile%20views&color=0e75b6&style=flat"
