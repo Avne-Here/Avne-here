@@ -6,7 +6,7 @@
   src="https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif" alt="Coding animation" />
 
 <p align="left">
-  <img src="(https://imgs.search.brave.com/4IPddep_RxvfthtNK3oiZzS97yMDGIkFeTy80BlijjY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlbVZrZG1Kck9Y/aG1ZamR4Y21KbWJH/aHFiR2h3TW1ab1l6/ZDJPWGhwZGpRMmNq/ZGliRGM1ZWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3lrWHpJcTE0/SlpKeVZPaUFhL2dp/cGh5LmdpZg.gif)" alt="Profile views" />
+  <img src="https://imgs.search.brave.com/fGuzESh3m9Dd1_r8ev6t65CMp163ZTVXG372HMfgRlU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI2L2Iz/LzA4LzI2YjMwODBj/NjBjMDc5MDJkMGFk/ZjZjYWYyZDY3MWI0/LmpwZw" alt="Profile views" />
 </p>
 
 - 🔭 Currently learning cybersecurity fundamentals.
