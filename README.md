@@ -22,7 +22,7 @@
 <a href="https://www.codechef.com/users/avne" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30" /></a>
 <a href="https://www.hackerrank.com/profile/avnedeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Avne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Avne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -39,6 +39,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avne-Here&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Avne-Here's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=Avne-Here&theme=radical" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avne-Here&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
