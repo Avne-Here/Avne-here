@@ -39,8 +39,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=Avne-Here&theme=radical" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avne-Here&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
